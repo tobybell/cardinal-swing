@@ -8,7 +8,9 @@ Content-Type: text/html; charset=utf-8
 <meta name="color-scheme" content="only">
 </head>
 <body>
-  <div style="margin: 43px 0 0; transform: translate(0, -7.5%) scale(1.15); height: 350px; background: url(https://tobybell.github.io/cardinal-swing/res/emw4.jpg) no-repeat #c3bdd3; background-size: auto 350px; background-position: center"></div>
+  <div style="margin: 43px 0 0; transform: translate(0, -7.5%) scale(1.15); height: 350px; background: #c3bdd3; display: flex; justify-content: center; align-items: stretch; overflow: hidden">
+    <img src="https://tobybell.github.io/cardinal-swing/res/emw4.jpg" alt="East Meets West" style="height: 350px; width: 669px; margin: 0; padding: 0" />
+  </div>
   <p style="font-size: 22px; margin: 30px auto 0; color: #324; font-weight: bold; text-align: center">
 Come dance with us!
   </p>
